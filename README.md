@@ -8,6 +8,6 @@ This project is a RESTful API that allows users to input **natural language quer
 
 - 🎯 Accepts natural language input for churn prediction via REST API  
 - 🤖 Converts queries to structured features using **LLM + Pydantic**  
-- 🧠 Uses a trained ML model to estimate **customer churn probability**  
-- 🔌 Fast and lightweight API built with **FastAPI** (or Flask if you used it)  
+- 🧠 Uses a trained ML model to estimate **customer churn**  
+- 🔌 Fast and lightweight API built with **FastAPI**  
 - 📦 Modular structure for easy extension and deployment  
